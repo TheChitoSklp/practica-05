@@ -1,0 +1,63 @@
+body {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+
+  background: #ecf2f8;
+}
+.card-1 {
+  position: absolute;
+  width: 540px;
+  height: 282px;
+  left: 165px;
+  top: 164px;
+
+  background: #733fc8;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+
+  border-radius: 8px;
+}
+.card-2 {
+  position: absolute;
+  width: 255px;
+  height: 266px;
+  left: 165px;
+  top: 470px;
+
+  background: #ffffff;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+  border-radius: 8px;
+}
+.card-3 {
+  position: absolute;
+  width: 255px;
+  height: 282px;
+  left: 735px;
+  top: 164px;
+
+  background: #48556a;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+  border-radius: 8px;
+}
+.card-4 {
+  position: absolute;
+  width: 540px;
+  height: 266px;
+  left: 450px;
+  top: 470px;
+
+  background: #19202d;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+  border-radius: 8px;
+}
+.card-5 {
+  position: absolute;
+  width: 255px;
+  height: 572px;
+  left: 1020px;
+  top: 164px;
+
+  background: #ffffff;
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+  border-radius: 8px;
+}
