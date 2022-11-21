@@ -5,6 +5,13 @@ body {
 
   background: #ecf2f8;
 }
+.fotoPerfil {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  left: 32px;
+  top: 26px;
+}
 .card-1 {
   position: absolute;
   width: 540px;
@@ -16,6 +23,11 @@ body {
   box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
 
   border-radius: 8px;
+}
+.card-1 .comillas {
+  position: absolute;
+  left: 356px;
+  background: #733fc8;
 }
 .card-2 {
   position: absolute;
